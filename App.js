@@ -11,6 +11,8 @@ import {
 
 
 
+
+
 const App = () => {
   useEffect(() => {
     SplashScreen.hide();
