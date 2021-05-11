@@ -9,10 +9,6 @@ import {
   FlatList
 } from 'react-native';
 
-
-
-
-
 const App = () => {
   useEffect(() => {
     SplashScreen.hide();
