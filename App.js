@@ -5,7 +5,8 @@ import {
   StyleSheet,
   Text,
   View,
-  Image
+  Image,
+  FlatList
 } from 'react-native';
 
 
