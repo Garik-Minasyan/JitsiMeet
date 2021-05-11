@@ -8,6 +8,8 @@ import {
   Image
 } from 'react-native';
 
+
+
 const App = () => {
   useEffect(() => {
     SplashScreen.hide();
